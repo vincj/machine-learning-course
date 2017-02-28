@@ -1,0 +1,84 @@
+learn the matrix factorization using SGD...
+iter: 0, RMSE on training set: 0.4911862978013967.
+iter: 1, RMSE on training set: 0.4430932434526284.
+iter: 2, RMSE on training set: 0.4225475332589754.
+iter: 3, RMSE on training set: 0.409604876643092.
+iter: 4, RMSE on training set: 0.40091758158320057.
+iter: 5, RMSE on training set: 0.3944748813929209.
+iter: 6, RMSE on training set: 0.38935235850820904.
+iter: 7, RMSE on training set: 0.38543254120736736.
+iter: 8, RMSE on training set: 0.38226564925734896.
+iter: 9, RMSE on training set: 0.37972858633626655.
+iter: 10, RMSE on training set: 0.3776708610257539.
+iter: 11, RMSE on training set: 0.37595165836762406.
+iter: 12, RMSE on training set: 0.3745744910341816.
+iter: 13, RMSE on training set: 0.3734303822511874.
+iter: 14, RMSE on training set: 0.3724859662546966.
+iter: 15, RMSE on training set: 0.3717049021063332.
+iter: 16, RMSE on training set: 0.3710525233501787.
+iter: 17, RMSE on training set: 0.370514209259114.
+iter: 18, RMSE on training set: 0.3700660821432716.
+iter: 19, RMSE on training set: 0.3696941344783621.
+RMSE on test data: 0.4844489873812062.
+
+
+#WITH REGULARIZATION PARAMETERS
+learn the matrix factorization using SGD...
+iter: 0, RMSE on training set: 6.916661370570176.
+iter: 1, RMSE on training set: 6.916765214291425.
+iter: 2, RMSE on training set: 6.9167659581425145.
+iter: 3, RMSE on training set: 6.916765968785193.
+iter: 4, RMSE on training set: 6.9167659689266445.
+iter: 5, RMSE on training set: 6.9167659689277485.
+iter: 6, RMSE on training set: 6.91676596892776.
+iter: 7, RMSE on training set: 6.91676596892776.
+iter: 8, RMSE on training set: 6.91676596892776.
+iter: 9, RMSE on training set: 6.91676596892776.
+iter: 10, RMSE on training set: 6.91676596892776.
+iter: 11, RMSE on training set: 6.91676596892776.
+iter: 12, RMSE on training set: 6.91676596892776.
+iter: 13, RMSE on training set: 6.91676596892776.
+iter: 14, RMSE on training set: 6.91676596892776.
+iter: 15, RMSE on training set: 6.91676596892776.
+iter: 16, RMSE on training set: 6.91676596892776.
+iter: 17, RMSE on training set: 6.91676596892776.
+iter: 18, RMSE on training set: 6.91676596892776.
+iter: 19, RMSE on training set: 6.91676596892776.
+RMSE on test data: 6.845632362747277.
+
+# ALS WITHOUT REGULARIZATION PARAMETERS
+starting iter: 0
+iter: 0, RMSE on training set: [[ 0.2624819]].
+starting iter: 1
+iter: 1, RMSE on training set: [[ 0.217119]].
+starting iter: 2
+iter: 2, RMSE on training set: [[ 0.19915314]].
+starting iter: 3
+iter: 3, RMSE on training set: [[ 0.18884879]].
+starting iter: 4
+iter: 4, RMSE on training set: [[ 0.18193574]]. RMSE on test data: [[ 640.82272159]].
+starting iter: 5
+iter: 5, RMSE on training set: [[ 0.17697262]].
+starting iter: 6
+iter: 6, RMSE on training set: [[ 0.17323449]].
+starting iter: 7
+iter: 7, RMSE on training set: [[ 0.17014154]].
+starting iter: 8
+iter: 8, RMSE on training set: [[ 0.16757378]].
+starting iter: 9
+iter: 9, RMSE on training set: [[ 0.16535913]].
+
+# ALS WITH REGULARIZATION PARAMETERS
+starting iter: 0
+iter: 0, RMSE on training set: [[ 0.74752088]].
+starting iter: 1
+iter: 1, RMSE on training set: [[ 0.56773782]].
+starting iter: 2
+iter: 2, RMSE on training set: [[ 0.50885108]].
+starting iter: 3
+iter: 3, RMSE on training set: [[ 0.4791656]].
+starting iter: 4
+iter: 4, RMSE on training set: [[ 0.46204409]].
+RMSE on test data: [[ 0.49377144]].
+
+
